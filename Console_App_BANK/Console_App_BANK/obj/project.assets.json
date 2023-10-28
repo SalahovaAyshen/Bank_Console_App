@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Console_App_BANK\\Console_App_BANK\\Console_App_BANK.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Bank_Console_App\\Console_App_BANK\\Console_App_BANK\\Console_App_BANK.csproj",
       "projectName": "Console_App_BANK",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Console_App_BANK\\Console_App_BANK\\Console_App_BANK.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Bank_Console_App\\Console_App_BANK\\Console_App_BANK\\Console_App_BANK.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Console_App_BANK\\Console_App_BANK\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Bank_Console_App\\Console_App_BANK\\Console_App_BANK\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
