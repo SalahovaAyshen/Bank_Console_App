@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -35,7 +36,7 @@ namespace Console_App_BANK.Models
         {
             if (!CheckAccount(id))
             {
-                throw new AccountNotFoundException("Account doesn't found");
+                throw new AccountNotFoundException("Account not found");
             }
             else
             {
@@ -44,7 +45,22 @@ namespace Console_App_BANK.Models
             }
         }
 
+        public void TransferMoney (int fromAccountId, int toAccountId, decimal amount)
+        {
+            if(!CheckAccount(fromAccountId))
+            {
+                throw new AccountNotFoundException("Account not found");
+            }
+            if (!CheckAccount(toAccountId))
+            {
+                throw new AccountNotFoundException("Account not found");
+            }
 
+            Account fromAccount = Accounts.Find(x => x.AccountId == fromAccountId);
+            Account toAccount = Accounts.Find(x => x.AccountId == toAccountId);
+
+
+        }
 
         public bool CheckAccount(int id)
         {
