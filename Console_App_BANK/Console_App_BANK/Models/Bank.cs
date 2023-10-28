@@ -18,9 +18,9 @@ namespace Console_App_BANK.Models
         {
             Name= name;
         }
-        public void CreateAccount()
+        public void CreateAccount(Account account)
         {
-            Accounts.Add(new Account());
+            Accounts.Add(account);
         }
 
         public void DepositMoney(int id, decimal amount)

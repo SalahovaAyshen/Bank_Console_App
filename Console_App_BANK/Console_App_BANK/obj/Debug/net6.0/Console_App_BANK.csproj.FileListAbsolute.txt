@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\bin\Debug\net6.0\Console_App_BANK.exe
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\bin\Debug\net6.0\Console_App_BANK.deps.json
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\bin\Debug\net6.0\Console_App_BANK.runtimeconfig.json
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\bin\Debug\net6.0\Console_App_BANK.dll
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\bin\Debug\net6.0\Console_App_BANK.pdb
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.dll
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\refint\Console_App_BANK.dll
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.pdb
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\Console_App_BANK.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bank_Console_App\Console_App_BANK\Console_App_BANK\obj\Debug\net6.0\ref\Console_App_BANK.dll
