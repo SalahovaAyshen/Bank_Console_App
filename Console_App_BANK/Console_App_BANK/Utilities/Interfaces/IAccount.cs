@@ -11,8 +11,8 @@ namespace Console_App_BANK.Utilities.Interfaces
        int AccountId { get; set; }
        decimal Balance { get; set; }
 
-        public void Deposit(double amount);
-        public void Withdraw(double amount);
+        public void Deposit(decimal amount);
+        public void Withdraw(decimal amount);
 
     }
 }
