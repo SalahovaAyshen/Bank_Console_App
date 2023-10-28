@@ -27,7 +27,7 @@ namespace Console_App_BANK.Models
         {
             if(!CheckAccount(id))
             {
-                throw new AccountNotFoundException("Account doesn't found");
+                throw new AccountNotFoundException("Account not found");
             }
             else
             {
