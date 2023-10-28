@@ -12,7 +12,7 @@ namespace Console_App_BANK.Utilities.Interfaces
        decimal Balance { get; set; }
 
         public void Deposit(decimal amount);
-        public void Withdraw(decimal amount);
+        public void Withdrawal(decimal amount);
 
     }
 }

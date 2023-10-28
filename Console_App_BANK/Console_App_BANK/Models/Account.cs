@@ -36,7 +36,7 @@ namespace Console_App_BANK.Models
             }
         }
 
-        public void Withdraw(decimal amount)
+        public void Withdrawal(decimal amount)
         {
             if (amount > 0)
             {
